@@ -15,4 +15,5 @@ git commit -m "type your message  "
 git push 
 ```
 
-bjgdhufgh
+Note! 
+You need to save (Ctrl + S) before `git add .`command to commit changes
