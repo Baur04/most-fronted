@@ -31,9 +31,11 @@ git pull = git fetch + git merge
 ```
 ## Branch naming commands
 
+```
 git checkout -b new-branch-name
 git checkout new-branch-name
 git switch 
 git merge
 
 git pull = git fetch + git merge
+```
