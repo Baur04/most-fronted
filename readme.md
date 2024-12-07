@@ -39,3 +39,5 @@ git merge
 
 git pull = git fetch + git merge
 ```
+
+The end
